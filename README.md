@@ -1,4 +1,4 @@
-## Hi there 👋
+![meow](https://pbs.twimg.com/profile_banners/1887254973068812291/1758770535/1500x500)
 
 <!--
 **jillstingray/jillstingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
