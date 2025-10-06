@@ -1,3 +1,5 @@
+<br><img src="https://komarev.com/ghpvc/?username=jillstingray&color=000000">
+<br>uhh c+h
 ![meow](https://pbs.twimg.com/profile_banners/1887254973068812291/1758770535/1500x500)
 
 <!--
