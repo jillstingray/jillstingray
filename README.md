@@ -1,6 +1,8 @@
+<p align="center"
 <br><img src="https://komarev.com/ghpvc/?username=jillstingray&color=000000">
 <br>uhh c+h
-![meow](https://pbs.twimg.com/profile_banners/1887254973068812291/1758770535/1500x500)
+<br>whisper if i dont answer!
+<br> <img src="https://pbs.twimg.com/media/G2Yb29pbsAAhJI9?format=png&name=900x900" alt="carmen and michelle">
 
 <!--
 **jillstingray/jillstingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
