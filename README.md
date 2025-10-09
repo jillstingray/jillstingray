@@ -2,6 +2,7 @@
 <br><img src="https://komarev.com/ghpvc/?username=jillstingray&color=000000">
 <br>uhh c+h
 <br>whisper if i dont answer!
+<br>i like making friends! i make friends with anyone like me
 <br> <img src="https://pbs.twimg.com/media/G2Yb29pbsAAhJI9?format=png&name=900x900" alt="carmen and michelle">
 
 <!--
