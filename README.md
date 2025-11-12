@@ -1,5 +1,5 @@
 <p align="center"
-<br><img src="https://komarev.com/ghpvc/?username=jillstingray&color=000000">
+<br><img src="https://komarev.com/ghpvc/?username=jillstingray&label=PE+Boxes+Gained&color=32843e&style=for-the-badge">
 <br><i></b>for ponytown</i>
 <br>uhh c+h
 <br>whisper if i dont answer!
